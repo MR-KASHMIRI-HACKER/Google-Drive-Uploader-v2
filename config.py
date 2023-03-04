@@ -10,7 +10,7 @@ AUTH_GROUP = ""
 Creds_path = "creds"
 DOWNLOAD_LOCATION = "/"
 
-adminList = [985378987, 1212106123]
+adminList = [6271662009, 1212106123]
 
 
 EDIT_TIME = 5
